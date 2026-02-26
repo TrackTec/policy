@@ -14,8 +14,8 @@ Static, no-tracking policy website for `policy.krypto-boss.de`, prepared for Met
 ## Current legal/contact data
 
 - Company name: `KryptoBOSS`
-- Contact email: `bratanbitcoin@gmail.com`
-- GDPR requests: `bratanbitcoin@gmail.com`
+- Contact email: `kontakt@krypto-boss.de`
+- GDPR requests: `kontakt@krypto-boss.de`
 - Last updated date on pages: `26.02.2026` (DE) and `February 26, 2026` (EN)
 
 ## Local test (Open with Live Server)
