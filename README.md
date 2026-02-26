@@ -8,7 +8,6 @@ Static, no-tracking policy website for `policy.krypto-boss.de`, prepared for Met
 - `/privacy` -> Privacy Policy
 - `/data-deletion` -> Data Deletion (Meta review relevant)
 - `/terms` -> Terms
-- `/imprint` -> Imprint
 - `/security` -> Security & Contact
 - English versions under `/en/...`
 

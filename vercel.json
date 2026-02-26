@@ -17,10 +17,6 @@
       "destination": "/terms.html"
     },
     {
-      "source": "/imprint",
-      "destination": "/imprint.html"
-    },
-    {
       "source": "/security",
       "destination": "/security.html"
     },
@@ -39,10 +35,6 @@
     {
       "source": "/en/terms",
       "destination": "/en/terms.html"
-    },
-    {
-      "source": "/en/imprint",
-      "destination": "/en/imprint.html"
     },
     {
       "source": "/en/security",
